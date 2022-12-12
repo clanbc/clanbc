@@ -16,7 +16,5 @@ class Engineer:
 
 
 me = Engineer()
-me.say_hi()
+me.welcome()
 ```
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clanbc&show_icons=true&count_private=true&theme=dark" alt="clanbc" /></p>
